@@ -1,4 +1,4 @@
-# Spartahack 8 thing
+# Joblify - Spartahack 8 submission
 ---
 
 # What Inspired This
